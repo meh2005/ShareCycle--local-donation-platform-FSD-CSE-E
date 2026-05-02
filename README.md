@@ -80,9 +80,6 @@ ShareCycle/
     PORT=5000
     MONGO_URI=mongodb://127.0.0.1:27017/local_donation
     JWT_SECRET=your_secret_key
-    CLOUDINARY_CLOUD_NAME=your_name
-    CLOUDINARY_API_KEY=your_key
-    CLOUDINARY_API_SECRET=your_secret
     ```
 4.  `npm run dev`
 
